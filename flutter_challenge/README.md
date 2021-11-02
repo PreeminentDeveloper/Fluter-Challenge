@@ -1,16 +1,15 @@
 # flutter_challenge
 
-A new Flutter project.
+An Authentication app with Firbase.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Sign In with Email and Password
+- Sign In with Facebook
+- Sign In with Google
 
-A few resources to get you started if this is your first Flutter project:
+- [Click here to download the apk](https://we.tl/t-XncA1G9X0I) or retrieve the apk from the root repo with the name "flutterchallenge.apk"
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- ![Login view](https://user-images.githubusercontent.com/30553568/139770212-22bffd11-c131-4534-98a6-04745b5c101e.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ![Home](https://user-images.githubusercontent.com/30553568/139770232-72d5cc59-0eec-482c-a95b-f105d3cd34a5.png)
